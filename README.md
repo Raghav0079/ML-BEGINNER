@@ -6,4 +6,4 @@ its contains simple linear regression
             clustering
 
             
-i have uploaded the datasets used 
+i have uploaded the datasets used  for easy refrence
